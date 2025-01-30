@@ -24,8 +24,7 @@ Ensure you have Python 3.7+ installed on your system.
 
 Step 1: Clone the Repository
 
-git clone https://github.com/your-username/human-pose-estimation.git
-cd human-pose-estimation
+
 
 Step 2: Install Dependencies
 
